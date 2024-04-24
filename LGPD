@@ -1,0 +1,12 @@
+Antes de saber a relação entre a LGPD e os data center no Brasil é preciso entender o que é cada um:
+um data center é uma instalação física que as empresas utilizam para armazenar aplicativos e dados especiais e a LGPD é a lei geral de proteção de dados.
+A LGPD obriga as empresas a serem mais responsáveis com o gerenciamento de dados armazenados. por conta dessas novas responsabilidades os data centers precisam ter como regra e cultura empresarial as adequações da LGPD, que tem como objetivo garantir a segurança de informações de maneira física e virtual dos seus clientes. 
+formato de arquivos proprietários:  proprietários representam a privatização da memória digital, é formato de arquivo que é coberto por uma patente ou copyright. exemplos: DOC MICROSOFT WORLD DOCUMENT, DWG AUTOCAD DRAWING
+formato aberto: são arquivos cuja especificações são publicadas e podem ser conhecidas por todos, diversos softwares possam implementá-los, independentemente dos direitos de propriedade. exemplos:  DVI (uma linguagem para descrição de página)
+LaTeX (uma linguagem de documentação)
+implicações relacionados a dados públicos: Especialistas acreditam que a Lei Geral de Proteção de Dados Pessoais traz parâmetros, mas que ainda há um debate sobre que tipos de dados pessoais devem, de fato, ser considerados públicos e assim, ficar disponíveis para a sociedade em geral. 
+comentários: A LGPD é de extrema importância para garantir segurança virtural a população, as grandes empresas devem se responsabilizar em garantir que as informações e os dados de seus clientes não vazem.
+REFERÊNCIAS: 
+https://odatacolocation.com/blog/lgpd-para-datacenters/#:~:text=Nesse%20sentido%2C%20a%20LGPD%20estabelece,todos%20est%C3%A3o%20sujeitos%20%C3%A0%20regula%C3%A7%C3%A3o 
+https://thriveti.com.br/veja-a-relacao-entre-data-center-e-a-lei-geral-de-protecao-de-dados-lgpd/
+https://www.serpro.gov.br/lgpd/menu/protecao-de-dados/dados-publicos-lgpd
